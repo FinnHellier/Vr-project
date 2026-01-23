@@ -1,0 +1,9 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Export/
+
+*.sln
+.vsconfig
+.vs/
