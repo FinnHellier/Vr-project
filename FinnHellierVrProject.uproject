@@ -43,6 +43,17 @@
 		{
 			"Name": "VisualStudioCodeSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "AppleProResMedia",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "AvidDNxMedia",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
